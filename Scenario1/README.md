@@ -1,6 +1,6 @@
 # Random Number List Generator
 
-## Solution for secnrio 1
+## Solution for Scenario 1
 
 ### Overview
 
@@ -32,10 +32,10 @@ pip3 install random
 
 ## Steps to run
 
-- Clone this repo in your local machine
+- Clone this repo
 - Execute the script `randomNumListGenerator.py`
     - script takes range as an argument `-r`
-    - if no value is passed for `-r` then by default `10` set to range
+    - if no value is passed for `-r` then by default `10` is set to range
     - range argument `-r` takes only `int` type  
 
     ```
