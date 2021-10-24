@@ -23,7 +23,7 @@ The script will generate numbers from 1 to 10,unless a range specfied by the use
 - [Refer for Linux](https://docs.python-guide.org/starting/install3/linux/)
     ```
         $ sudo apt-get update
-        $ sudo apt-get install python3.6
+        $ sudo apt-get install python3.8
     ```
 ### Packages
 ``` 
