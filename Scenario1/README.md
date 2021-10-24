@@ -8,7 +8,8 @@ The script will generate numbers from 1 to 10,unless a range specfied by the use
 
 ## Requirments
 
-The script was tested on Python 3.8+
+#### Python 3.8+
+
 
 ### Installation
 #### Mac
