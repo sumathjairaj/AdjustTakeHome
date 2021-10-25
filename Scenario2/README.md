@@ -56,6 +56,7 @@ these tools would run agent(a light weight process) on the target machines which
 - These metrics can be visualized which would helpfully to identify any anomalies in the pattern
 - We can set alerts on metric to trigger if the value of certain metric cross a threshold value
 - We can setup recover steps if alert is triggered this would help solve level 1 issue without need of user intervention.
+- We can setup prometheus by following [steps](https://prometheus.io/docs/introduction/first_steps/)
 
 ### Challenges
 - Challenges faced in using 3rd party monitoring tool would be to make sure the monitoring agents are running in all the hosts and are sending data to the main application.
