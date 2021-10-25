@@ -33,7 +33,7 @@
 
 ### Application Metrics
 
-- #### Request per second
+- #### Request per minute
     -  Monitoring this metric can alert to spikes in incoming web traffic, whether legitimate or nefarious, or sudden drops, which are usually indicative of problems. 
     - A drastic change in requests per second can alert to problems brewing somewhere in the environment 
 - #### Average and max latency
